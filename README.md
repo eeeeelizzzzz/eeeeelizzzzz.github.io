@@ -485,6 +485,8 @@ Our most active contributors are welcome to join the maintainers team. If you ar
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
   </picture>
+
+  Force
 </a>
 
 ## License
