@@ -486,7 +486,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alshedivat/al-folio&type=Date" />
   </picture>
 
-  Force
+
 </a>
 
 ## License
