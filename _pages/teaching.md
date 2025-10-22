@@ -11,7 +11,7 @@ nav_order: 6
 **University of Oklahoma, School of Meteorology**
 Offered: 
  - Fall 2021
- - [Fall 2024: ungrading approach implemented](teaching/metr5603)
+ - [Fall 2024: ungrading approach implemented](/metr5603/)
 The course is intended to be offered every other fall semester. 
 
 ### Course Prerequisites
@@ -38,11 +38,15 @@ Upon completion, students will be able to:
 # BUL Seminar Series 2019–2025
 Led the [Boundary Layer, Urban Meteorology, & Land-Surface Processes Seminar series](https://bliss.science/seminar/), including scheduling, moderating, and instructing and evaluating enrolled students; implemented peer-review activities and providing additional development opportunities.
 
+---
+
 # Research Hours and Independent Study 
 Elizabeth often serves as instructor/advisor for research hour courses and independent study. Previous independent study topics:
  - Field Programs
  - Remote Sensors
  - Intro to WRF
+
+ ---
 
 # Guest Lecturing
 Elizabeth periodically guest lectures. Previous lectures:
@@ -50,5 +54,9 @@ Elizabeth periodically guest lectures. Previous lectures:
  - METR4424 Synoptic (2023): Bjerknes History
  - METR2613 Instrumentation (2025): Remote Sensors
 
+ ---
+
 # Teaching Assistant 2015–2018
 During graduate study, Elizabeth instructed and helped develop the lab portion of Meteorological Measurement Systems, a junior-level, writing-intensive course. She taught observation techniques from calibration to characterization, developed new material to enhance scientific writing instruction, modernized lab experiments, and created Python coding assignments. She also offered coding/writing help sessions and guest lectured for the lecture component.
+
+---
