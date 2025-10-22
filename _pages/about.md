@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Meet Elizabeth
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NOAA National Severe Storms Laboratory</p>
+    <p>National Weather Center</p>
+    <p>120 David L Boren Blvd.</p>
+    <p>Norman, OK, 73072</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Elizabeth Smith has been a research meteorologist at NOAA’s [National Severe Storms Laboratory](https://www.nssl.noaa.gov/) since January 2020. Her scientific work at NSSL focuses broadly on boundary layer processes relevant to near- and pre-storm environments and convection initiation an how to observe them. She specializes in boundary-layer observations, including remote profiling and uncrewed aircraft.  She earned a Ph.D. in Meteorology from the University of Oklahoma in December of 2018 and spent a postdoctoral year at OU’s NOAA Cooperative Institute. Before graduate study at OU, she earned a B.S. in Meteorology at the California University of Pennsylvania—now called [PennWest California](https://www.pennwest.edu/)—in 2014. Beyond her specialty-specific contributions, Dr. Smith is invested in making science tangible, applicable, and approachable for everybody.
