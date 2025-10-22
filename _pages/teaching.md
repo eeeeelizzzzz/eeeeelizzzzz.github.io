@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses Taught
 nav: true
-nav_order: 7
+nav_order: 6
 ---
 
 # METR4603/5603: Advanced Observations for Lower Atmospheric Research
