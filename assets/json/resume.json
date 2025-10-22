@@ -1,200 +1,676 @@
 {
+  "$schema": "https://raw.githubusercontent.com/json-resume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Elizabeth N. Smith, Ph.D.",
+    "label": "Research Meteorologist",
+    "email": "elizabeth.smith@noaa.gov",
+    "phone": "+1405-294-6560",
+    "url": "https://linktr.ee/elizabeth.smith",
+    "summary": "Specialize in atmospheric observations, including boundary-layer profilers and un-crewed aircraft systems (UAS). Develop next-generation observing networks to understand processes relevant to convection initiation and pre-storm environments.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Norman",
+      "region": "OK"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "NOAA - National Severe Storms Laboratory",
+      "position": "Research Meteorologist",
+      "location": "Norman, OK",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Specialize in atmospheric observations, including boundary-layer profilers and un-crewed aircraft systems (UAS). Develop next-generation observing networks to understand processes relevant to convection initiation and pre-storm environments."
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of Oklahoma School of Meteorology",
+      "position": "Affiliate Assistant Professor",
+      "location": "Norman, OK",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Mentor undergraduate research assistants and interns. Advise MS and Ph.D. students. Periodically teach, including designing and instructing an elective undergraduate/graduate level course: Advanced Observations for Lower Atmospheric Research."
+    },
+    {
+      "name": "Cooperative Institute for Mesoscale Meteorological Studies",
+      "position": "Post-Doctoral Research Associate",
+      "location": "Norman, OK",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Focused on development and deployment of NSSL boundary-layer profiling systems. Explored experimental systems for advancing understanding of severe convective weather. Considered systems to enhance the NOAA upper-air observing network."
+    },
+    {
+      "name": "University of Oklahoma - School of Meteorology",
+      "position": "Graduate Research Assistant",
+      "location": "Norman, OK",
+      "startDate": "2014",
+      "endDate": "2018",
+      "summary": "Researched nocturnal low-level jets and boundary layers using numerical simulation methods and meteorological observing platforms as part of the BLISS group. Served as part of the first group of CLAMPS-1 operators. Assisted in the initial development of CLAMPS-2."
+    },
+    {
+      "name": "NOAA Education Hollings Intern - National Weather Service",
+      "position": "NWS WFO CYS Intern",
+      "location": "Cheyenne, WY",
+      "startDate": "2013",
+      "endDate": "2013",
+      "summary": "Examined the role of two-inch soil temperatures on early- and late-season snowfall accumulation. Worked with forecasters to understand forecast problems and develop trial guidance based on visibility observations. Awarded first place among Hollings cohort for research project. Assisted on the operations floor with forecasts, warnings, community decision support, and completed warning event simulations."
+    },
+    {
+      "name": "WOWK Channel 13",
+      "position": "Meteorology Intern",
+      "location": "Charleston, WV",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "Prepared forecasts and weather graphics for the Charleston viewing area and a West Virginia state-wide broadcast. Operated the Emergency Alert Crawler during severe weather days. Fielded calls and social media messages from the public and ran the NWS Chat system."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "University of Oklahoma",
+      "area": "Meteorology",
+      "studyType": "Ph.D.",
+      "endDate": "Dec. 2018",
+      "summary": "Dissertation: The Great Plains Nocturnal Low-Level Jet: Spatial and Temporal Evolution. Advisors: Dr. Petra Klein and Dr. Evgeni Fedorovich. Non-thesis M.S. degree awarded concurrently with Ph.D. studies (2017)."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "institution": "California University of Pennsylvania (now PennWest-California)",
+      "area": "Earth Sci.-Meteorology",
+      "studyType": "B.S.",
+      "endDate": "May 2014",
+      "summary": "Summa Cum Laude. Minors: Mathematics; Geographic Information Science-Emergency Management."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Observing the Air-Sea Transition Zone Using Coordinated UxS",
+      "description": "Deploys coordinated uncrewed systems (UUV, USV, UAV) to make simultaneous, collocated air-sea interface measurements.",
+      "keywords": ["Co-PI", "NOAA CPO TPEX-Central", "$731K-Recommended"],
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "Impacts of Terrain Heterogeneity on BL and Convection Processes",
+      "description": "Leverages a network of profiling sites (including CLAMPS) to examine how land-surface and canopy heterogeneity affect boundary-layer and convective processes in the SE US.",
+      "keywords": ["Collaborator", "DOE-FOA 0003420", "$1.3M-Declined"],
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "Identifying and Evaluating the Impact of Observed Boundary-layer Vertical Vorticity Structures on Tornadogenesis Efficiency",
+      "description": "Uses VORTEX-USA observation/radar data to evaluate if near-surface vertical vorticity structures impact tornadogenesis likelihood.",
+      "keywords": ["Collaborator", "NOAA WPO VORTEX-USA", "$412K-Declined"],
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "Longitudinal Analysis of the Tree-Fall Pattern Method for Tornado Intensity Estimation",
+      "description": "Builds a longitudinal study comparing UAS/satellite-observed tree-fall patterns to ground surveys and radar data to validate tornado intensity estimation.",
+      "keywords": ["Collaborator", "NOAA WPO VORTEX-USA", "$600K-Declined"],
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "CopterSonde LAAIRS: Laboratory for Advanced Atmospheric Investigation using Robotic Sondes",
+      "description": "Aims to enable unattended, autonomous CopterSonde operations by developing precision landing, automated charging, remote communication, and environmental resilience.",
+      "keywords": ["PI", "UxSOC Breakthrough in UxS RFP", "$1M-Funded"],
+      "startDate": "2025",
+      "endDate": "2027"
+    },
+    {
+      "name": "Precision Landing and Auto-Charging for Weather-Sensing UAS",
+      "description": "Supported the proof-of-concept design for CopterSonde precision landing/auto-charging; role included conceptual design and capstone team supervision.",
+      "keywords": ["Collaborator", "CIWRO Director's Discretionary Research Fund", "$25.5K-Funded"],
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "name": "PRODIGEE-UAS: Progressive Research and Optimization of a Durable and Independent Generation of Uncrewed Aircraft Systems",
+      "description": "Advances CopterSonde UAS capabilities through R&D in hardware, autopilot functions, immediate data dissemination, and supporting software/SOPs.",
+      "keywords": ["PI", "NOAA UXSRTO Research and Development", "$432.5K-Funded"],
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "name": "Venturing Into the Vertical: Optimizing Boundary Layer Profiling in Mesonets",
+      "description": "Performs Observing System Simulation Experiments (OSSEs) to determine the optimal design of a 3D boundary-layer profiling mesonet to fill data gaps.",
+      "keywords": ["Co-PI", "NOAA/WPO Mesonet BL Observations", "$600K-Funded"],
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "name": "Deep learning calibration of surface wind forecasts from the NSSL Warn-on-Forecast System",
+      "description": "Proposed to compile an AI-ready 10-m wind gust dataset to train convolutional neural networks (CNNs) for improving WoFS wind forecasts.",
+      "keywords": ["Co-PI", "NOAA Incubator", "$239.225-Declined"],
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "name": "American Wake Experiment (AWAKEN) - Year 2",
+      "description": "Led the deployment and oversight of the CLAMPS2 facility to sample flow undisturbed by turbine wakes as part of the AWAKEN campaign.",
+      "keywords": ["Co-PI", "NOAA - DOE Inter-agency Agreement", "$24.5K-Funded"],
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "name": "Deployment of CLAMPS + UAS Network-in-Network Profilers",
+      "description": "Coupled ground-based profilers (CLAMPS) with UAS platforms to measure properties critical to high-impact weather in the SE US, parallel to the PERILS effort.",
+      "keywords": ["PI", "NOAA VORTEX-USA - CLAMPS + UAS", "$80K-Funded"],
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "name": "Assessment of Renewable energy Impacts on the Environment",
+      "description": "Proposed a regional-scale deployment to assess how wakes from >7000 wind turbines in north-central Oklahoma impact ABL evolution and weather propagation.",
+      "keywords": ["Co-PI", "NSF - ARISE", "$800K-Declined"],
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "name": "Idealized Planar-Array Study for Quantifying Spatial heterogeneity in warm boundary layers",
+      "description": "Proposed to study how combined surface heterogeneities (roughness, heat, moisture) interact to form persistent secondary circulations.",
+      "keywords": ["Co-PI", "DOE/OSBER/ASR - IPAQS-WBL", "$400K-Declined"],
+      "startDate": "2020",
+      "endDate": "2022"
+    },
+    {
+      "name": "Analysis and OSEs of UAS observations for improved high impact weather forecasts",
+      "description": "Deployed UAS to collect vertical profiles for analysis, assimilation into NSSL's Warn on Forecast System, and exploration with NWS forecasters.",
+      "keywords": ["Collaborator", "NOAA/WPO - UAS and High Impact Weather", "$575K-Funded"],
+      "startDate": "2020",
+      "endDate": "2022"
+    },
+    {
+      "name": "American Wake Experiment (AWAKEN) - Year 1",
+      "description": "Contributed to experimental design and provided expertise on ground-based thermodynamic profiling to understand how turbine wakes affect wind farm efficiency.",
+      "keywords": ["Co-PI", "NOAA - DOE Inter-agency Agreement", "$12.5K-Funded"],
+      "startDate": "2020",
+      "endDate": "2021"
+    },
+    {
+      "name": "SPLASH-SAIL and continued PBL Analyses",
+      "description": "Supported analysis of CHEESHEAD data and the deployment of CLAMPS2 to Crested Butte, CO, for the SPLASH-SAIL campaign to evaluate PBL evolution.",
+      "keywords": ["PI", "NOAA/OAR/OWAQ - Boundary Layer Continued Support", "$117K-Funded"],
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+    {
+      "name": "Coastal Urban Boundary-layer Interactions with Convection (CUBIC)",
+      "description": "Supported collection of high-resolution data on boundary layer processes and thermal circulation in a coastal urban region, adding value to the TRACER project.",
+      "keywords": ["Co-PI", "DOE/OSBER/ASR - TRACER-CUBIC", "$300K-Funded"],
+      "startDate": "2020",
+      "endDate": "2022"
+    },
+    {
+      "name": "Evaluating Polarimetric Retrievals of Boundary Layer Height Using State-of-the-Art Boundary Layer Profiling",
+      "description": "Supported data collection and analysis to evaluate a proposed method for boundary layer height detection from operational WSR-88D radar.",
+      "keywords": ["Co-PI", "CIMMS Director's Discretionary Research Fund", "$37K-Funded"],
+      "startDate": "2020",
+      "endDate": "2021"
+    },
+    {
+      "name": "CHEESEHEAD Analysis",
+      "description": "Supported the analysis of data collected during the CHEESHEAD deployment period.",
+      "keywords": ["PI", "NOAA/OAR/OWAQ - Boundary Layer Analysis Next", "$117K-Funded"],
+      "startDate": "2020",
+      "endDate": "2021"
+    },
+    {
+      "name": "Defining the capabilities of boundary layer profiling systems for operations in the southeastern United States",
+      "description": "Used VORTEX-SE boundary layer profile observations to evaluate profiling platforms, inform future deployments, and assess operational forecast tools.",
+      "keywords": ["PI", "NOAA/OAR/OWAQ - VORTEX-SE", "$300K-Funded"],
+      "startDate": "2019",
+      "endDate": "2021"
+    },
+    {
+      "name": "CHEESEHEAD Data Collection",
+      "description": "Supported the deployment of both CLAMPS platforms in northern Wisconsin to characterize surface conditions and the overlying atmosphere.",
+      "keywords": ["PI", "NOAA/OAR/OWAQ - Boundary Layer", "$142K-Funded"],
+      "startDate": "2019",
+      "endDate": "2019"
+    },
+    {
+      "name": "WHY2MSIE",
+      "description": "Participated in NASA planetary boundary-layer (PBL) mission prototype by operating CLAMPS-1 (OU), CLAMPS-2 (NSSL), and deploying CopterSondes during NASA ER-2 aircraft overflights. Led coordination of these deployments and oversaw data collection.",
+      "keywords": ["NSSL Operations Lead", "Field Work"],
+      "startDate": "2024"
+    },
+    {
+      "name": "SCALES LEAD/MESOSCALES LEAD",
+      "description": "Led the design, organization, and execution of the Small-UAS Coordination for Atmospheric Low-Level Environmental Sampling (SCALES) project, which operated as the 2024 ISARRA Flight Week. Coordinated international participants. Project goals included: MesoSCALES (3D mesonet deployment), MicroSCALES (urban Tulsa deployment), and Technical (UAS safety case).",
+      "keywords": ["Lead", "Field Work"],
+      "startDate": "2024"
+    },
+    {
+      "name": "AWAKEN",
+      "description": "Planned and executed the AWAKEN CLAMPS missions, deploying both CLAMPS1 and CLAMPS2 in northern Oklahoma. Collaborated with DOE laboratories, private wind energy companies, and other NOAA labs.",
+      "keywords": ["NSSL/OU Profiling Lead", "Field Work"],
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "name": "TRACER",
+      "description": "Served as NSSL profiling PI, leading the CLAMPS planning and deployment of the CLAMPS2 platform to Houston, TX. Assisted with the CopterSonde and GeoCarb missions on site.",
+      "keywords": ["NSSL Profiling Lead", "Field Work"],
+      "startDate": "2022"
+    },
+    {
+      "name": "PERILS",
+      "description": "Served as NSSL profiling PI, leading CLAMPS deployment planning and execution. Led and managed the CopterSonde project, including NOAA UAS processes and executing 100+ flights. Worked as part of the PI team and designed/led local field safety training.",
+      "keywords": ["NSSL Profiling Lead", "Field Work"],
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "name": "SPLASH",
+      "description": "Led NSSL's planning, execution, and collaboration for participation in the SPLASH campaign. Managed the technically difficult deployment of CLAMPS in Crested Butte, CO (10K ft) from October-January.",
+      "keywords": ["Lead", "Field Work"],
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "name": "CLAMPS-EOL Collaboration",
+      "description": "Led the design of a month-long CLAMPS-1 facility deployment to the Marshal field site in Boulder, CO. Deployment supported EOL's progress toward LOTOS and built new collaborations.",
+      "keywords": ["Science Lead", "Field Work"],
+      "startDate": "2021"
+    },
+    {
+      "name": "BLISS-FUL",
+      "description": "Led the design, proposal, and execution of the BLISS Field Universalization Lab, a month-long test deployment of NWC community boundary layer sensors. Provided opportunities for students to submit their own IOP requests.",
+      "keywords": ["Field and Science Lead", "Field Work"],
+      "startDate": "2021"
+    },
+    {
+      "name": "UAS Damage Survey Project",
+      "description": "Deployed multiple times to the SE US to support a project imaging and collecting measurements over tornado paths. Work included traditional damage surveys, NWS collaboration, and public interaction.",
+      "keywords": ["Field Support Scientist", "Field Work"],
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "name": "VORTEX-SE/PERILS",
+      "description": "Moved into a leading role in planning boundary layer profiling deployments for future missions after COVID-19 delays.",
+      "keywords": ["Field Planning Lead", "Field Work"],
+      "startDate": "2021"
+    },
+    {
+      "name": "CIMMS DDRF - Boundary Layer Height",
+      "description": "Led the design, organization, and 4-week deployment of two mobile boundary layer profiling platforms across three sites. Role included oversight, management, data collection/management, and development of new BL height detection algorithms.",
+      "keywords": ["Field Lead", "Field Work"],
+      "startDate": "2020"
+    },
+    {
+      "name": "Targeted Observation by Radars and UAS of Supercells (TORUS)",
+      "description": "Assisted in development (hardware/software) and led deployment of a platform for mobile single- and dual-lidar observations near storms. Role included independent leadership, student mentoring, advising PI team, and coordinating mobile lidar deployments.",
+      "keywords": ["Field Scientist", "Field Work"],
+      "startDate": "2019",
+      "endDate": "2023"
+    },
+    {
+      "name": "Perdigão",
+      "description": "Served as group lead for the OU team operating a profiling system (mini-CLAMPS). Assisted NCAR in releasing radiosondes to measure atmospheric flow in complex terrain in Perdigão, Portugal.",
+      "keywords": ["Field Scientist", "Field Work"],
+      "startDate": "2017"
+    },
+    {
+      "name": "Mini-Mesoscale Predictability Experiment (mini-MPEX)",
+      "description": "Operated a mobile profiling platform (NOAA-NSSL CLAMPS2) and released radiosondes to observe near- and far-field environments near severe supercell thunderstorms.",
+      "keywords": ["Field Scientist", "Field Work"],
+      "startDate": "2016"
+    },
+    {
+      "name": "Plains Elevated Convection At Night (PECAN)",
+      "description": "Operated a mobile profiling platform (OU-NSSL CLAMPS1) and released radiosondes to observe nocturnal environments (e.g., MCSs, bores, low-level jets) in the Great Plains.",
+      "keywords": ["Field Scientist", "Field Work"],
+      "startDate": "2015"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A multi-instrument fuzzy logic boundary-layer top detection algorithm",
+      "publisher": "Atmos. Meas. Tech.",
+      "releaseDate": "2024",
+      "summary": "Smith, E. N., and J. T. Carlin, 2024: ... 17, 4087-4107. doi: 10.5194/amt-17-4087-2024"
+    },
+    {
+      "name": "Evaluation and applications of multi-instrument boundary layer thermodynamic retrieval profiles",
+      "publisher": "Boundary-Layer Meteorol.",
+      "releaseDate": "2021",
+      "summary": "Smith, E. N., B. R. Greene, T. M. Bell, W. G. Blumberg, R. Wakefield, D. Reif, Q. Niu, Q. Wang, D. D. Turner, 2021: ... 181, 95-123. doi: 10.1007/s10546-021-00640-2"
+    },
+    {
+      "name": "The Great Plains low-level jet during PECAN: observed and simulated characteristics",
+      "publisher": "Mon. Wea. Rev.",
+      "releaseDate": "2019",
+      "summary": "Smith, E. N., J. G. Gebauer, P. M. Klein, E. Fedorovich, and J. A. Gibbs, 2019: ... 147. 1845-1869. doi:10.1175/MWR-D-18-0293.1"
+    },
+    {
+      "name": "WRF model study of the great plains low-level jet: Effects of Grid Spacing and Boundary Layer Parameterization",
+      "publisher": "J. Appl. Meteor. Climatol.",
+      "releaseDate": "2018",
+      "summary": "Smith, E. N., J. A. Gibbs, E. Fedorovich, P. M. Klein, 2018: ... 57. 2375-2397. doi:10.1175/JAMC-D-17-0361.1"
+    },
+    {
+      "name": "Comparison of analytical descriptions of nocturnal low-level jets within the Ekman model framework",
+      "publisher": "Environ. Fluid. Mech.",
+      "releaseDate": "2016",
+      "summary": "Smith, E. N., E. Fedorovich, A. Shapiro, 2016: ... 17. 485-495. doi:10.1007/s10652-016-9502-z"
+    },
+    {
+      "name": "Using Ground-Based Remote Profilers to Explore Terrain Heterogeneity Effects on Boundary Layer Processes Impacting the Evolution of Severe Convection and Tornadoes",
+      "publisher": "Mon. Wea. Rev.",
+      "releaseDate": "2025",
+      "summary": "'Ammon, M., T. M. Bell, E. N. Smith, J. G. Gebauer, 2025: ... in press"
+    },
+    {
+      "name": "Studying Aerosol, Clouds, and Air Quality in the Coastal Urban Environment of Southeastern Texas",
+      "publisher": "Bull. Amer. Meteor. Soc.",
+      "releaseDate": "2025",
+      "summary": "Jensen, M. P., and Coauthors, 2025: ... doi:10.1175/BAMS-D-23-0331.1"
+    },
+    {
+      "name": "Operational wind plants increase planetary boundary layer height: an observational study",
+      "publisher": "Wind Energ. Sci.",
+      "releaseDate": "2025",
+      "summary": "Abraham, A., ... Smith, E. N., ... and Moriarty, P.: ... 10, 1681-1705, doi:10-1681-2025"
+    },
+    {
+      "name": "Probing the atmospheric boundary layer with integrated remote-sensing platforms during the American Wake ExperimeNt (AWAKEN) campaign",
+      "publisher": "J Renew. Sustain. Energy.",
+      "releaseDate": "2024",
+      "summary": "Jordan, A. J., E. N. Smith, P. K. Klein, J. G. Gebauer, S. W. Wharton, 2024: ... 16 (6): 063305."
+    },
+    {
+      "name": "Contextualizing Polarimetric Retrievals of Boundary Layer Height using State-of-the-Art Boundary Layer Profiling",
+      "publisher": "J. Appl. Meteorol. Climatol.",
+      "releaseDate": "2024",
+      "summary": "Carlin, J. T., E. N. Smith, and K. Giannakopolous, 2024: ... 63. 765-780. 10.1175/JAMC-D-23-0231.1"
+    },
+    {
+      "name": "The Propagation, Evolution, and Rotation in Linear Storms (PERILS) Project",
+      "publisher": "Bull. Amer. Meteor. Soc.",
+      "releaseDate": "2024",
+      "summary": "Kosiba, K. A., and Coauthors, 2024: ... doi: 10.1175/BAMS-D-22-0064.1"
+    },
+    {
+      "name": "Spatially distributed atmospheric boundary layer properties in Houston - A value-added observational dataset",
+      "publisher": "Nature Sci. Data",
+      "releaseDate": "2024",
+      "summary": "Lamer, K., ... E. N. Smith, ... et al. 2024: ... 11 (661), doi: 10.1038/s41597-024-03477-9"
+    },
+    {
+      "name": "Data collected using small uncrewed aircraft systems during the TRacking Aerosol Convection interactions Experiment (TRACER)",
+      "publisher": "Earth Syst. Sci. Data",
+      "releaseDate": "2024",
+      "summary": "Lappin, F., ... Smith, E. N, ... and Pillar-Little, E. 2024: ... 16, 2525-2541, doi:10.5194/essd-16-2525-2024"
+    },
+    {
+      "name": "Supporting Advancement in Weather and Water Prediction in the Upper Colorado River Basin: The SPLASH Campaign",
+      "publisher": "Bull. Amer. Meteor. Soc.",
+      "releaseDate": "2023",
+      "summary": "de Boer. G., ...E. N. Smith....and Coauthors, 2023: ... 104, E1853-E1874"
+    },
+    {
+      "name": "Passive remote sensing of the atmospheric boundary layer in Colorado's East River Valley...",
+      "publisher": "JGR Atmospheres",
+      "releaseDate": "2022",
+      "summary": "Adler, B. J. M., ... E. N. Smith, ... et al. 2022: ... 128, doi: 10.1029/2023JD038497"
+    },
+    {
+      "name": "Doppler Lidar and Mobile Radiosonde Observation-Based Evaluation of Warn-on-Forecast System Predicted Near-Supercell Environments during TORUS 2019",
+      "publisher": "Wea. Forecasting",
+      "releaseDate": "2022",
+      "summary": "Laser, J. J., M. C. Coniglio, P. S., Skinner, E. N. Smith, 2022: ... 37 (10), 1783-1804. doi: 10.1175/WAF-D-21-0190.1"
+    },
+    {
+      "name": "Evaluating convective planetary boundary layer height estimations resolved by both active and passive remote sensing instruments during the CHEESEHEAD19 field campaign",
+      "publisher": "Atmos. Meas. Tech.",
+      "releaseDate": "2022",
+      "summary": "Duncan Jr., J. B., ... Smith, E. N., ... et al. 2022: ... 15, 2479-2502"
+    },
+    {
+      "name": "Connecting Land-Atmosphere Interactions to Surface Heterogeneity in CHEESEHEAD 2019",
+      "publisher": "Bull. Amer. Meteor. Soc.",
+      "releaseDate": "2021",
+      "summary": "Butterworth, B. J., ... E. N. Smith,.... et al. 2021: ... 102(2), E421-E445."
+    },
+    {
+      "name": "Workshop on Current and Future Uses of UASs for Improved Forecasts/Warnings and Scientific Studies",
+      "publisher": "Bull. Amer. Meteor. Soc.",
+      "releaseDate": "2020",
+      "summary": "McFarquhar, G., E. N. Smith, E. Pillar-Little, ... et al. 2020: ... 101 (8), E1322-E1328"
+    },
+    {
+      "name": "Assessing systematic impacts of PBL schemes in the NOAA Warn-on-Forecast System",
+      "publisher": "Mon. Wea. Rev.",
+      "releaseDate": "2020",
+      "summary": "Potvin, C. K., ... E. N. Smith, 2020: ... 148, 2567-2590"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "Proficient",
+      "keywords": [
+        "Python (proficient)",
+        "LaTeX (proficient)",
+        "Weather Research and Forecast (WRF) Model (proficient)",
+        "MATLAB (working knowledge)",
+        "HTML (working knowledge)",
+        "Unix (working knowledge)",
+        "ArcGIS (working knowledge)",
+        "HPC platforms (working knowledge)"
+      ]
+    },
+    {
+      "name": "Uncrewed Aircraft Systems",
+      "level": "Certified",
+      "keywords": [
+        "NOAA UAS Mission Commander",
+        "FAA Certificated UAS Pilot",
+        "Certified on CopterSonde (3D/SWX-Q, iMet3)",
+        "Certified on NSSL UAS platforms (Trinity Fgo+, Skydio2)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "OAR EEO/Diversity Award for a Group - EEO Advisory Committee",
+      "date": "2022",
+      "awarder": "NOAA OAR"
+    },
+    {
+      "title": "OAR EEO/Diversity Award for Exemplary Service",
+      "date": "2020",
+      "awarder": "NOAA OAR"
+    },
+    {
+      "title": "Douglas Lilly Paper Award (for 2019 MWR Publication)",
+      "date": "2019",
+      "awarder": "OU SCHOOL OF METEOROLOGY"
+    },
+    {
+      "title": "Outstanding Poster Award",
+      "date": "2018",
+      "awarder": "OKLAHOMA WOMEN IMPACTING STEM AND ENTREPRENEURSHIP CONFERENCE"
+    },
+    {
+      "title": "Director's Recognition for Service to the Department",
+      "date": "2017",
+      "awarder": "OU SCHOOL OF METEOROLOGY"
+    },
+    {
+      "title": "First Place Student Oral Presentation, 24th Conference on NWP",
+      "date": "2017",
+      "awarder": "AMERICAN METEOROLOGICAL SOCIETY"
+    },
+    {
+      "title": "Faculty Recognition for Outstanding Performance as a Graduate Student",
+      "date": "2016",
+      "awarder": "OU SCHOOL OF METEOROLOGY"
+    },
+    {
+      "title": "Lockheed Martin Graduate Fellowship",
+      "date": "2014-2015",
+      "awarder": "AMERICAN METEOROLOGICAL SOCIETY"
+    },
+    {
+      "title": "Michael A Roberts, Jr. Undergraduate Scholarship",
+      "date": "2013",
+      "awarder": "AMERICAN METEOROLOGICAL SOCIETY"
+    },
+    {
+      "title": "NOAA Science and Education Symposium Award",
+      "date": "2013",
+      "awarder": "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION"
+    },
+    {
+      "title": "NOAA Ernest F. Hollings Scholarship",
+      "date": "2012-2014",
+      "awarder": "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION"
+    },
+    {
+      "title": "Phillips Family Scholarship",
+      "date": "2012",
+      "awarder": "NATIONAL WEATHER ASSOCIATION"
+    },
+    {
+      "title": "Presidential Scholar",
+      "date": "2010-2014",
+      "awarder": "CALIFORNIA UNIVERSITY OF PENNSYLVANIA"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AMERICAN METEOROLOGICAL SOCIETY",
+      "position": "Subject Matter Editor, BULLETIN OF THE AMERICAN METEOROLOGICAL SOCIETY, OBSERVATIONS",
+      "startDate": "2022",
+      "endDate": "Present"
+    },
+    {
+      "organization": "OU SCHOOL OF METEOROLOGY",
+      "position": "Faculty Search Committee | BL/DYNAMICS OPEN RANK, BL OBSERVATIONS ASST.",
+      "startDate": "2022",
+      "endDate": "2022"
+    },
+    {
+      "organization": "BLISS GROUP (BOUNDARY LAYER INTEGRATED SENSING AND SIMULATION GROUP)",
+      "position": "Group Lead",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Re-founded, organized, and currently co-lead the BLISS cross-institution group."
+    },
+    {
+      "organization": "AMERICAN METEOROLOGICAL SOCIETY",
+      "position": "Associate Editor | Monthly Weather Review (2020-Present); Journal of Atmospheric Science (2020-2024)",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
+      "organization": "NOAA OAR EEO ADVISORY COMMITTEE",
+      "position": "Alt. Rep. for NSSL",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
+      "organization": "NSSL",
+      "position": "Outreach and Engagement",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Regularly participate in educational outreach, media engagement, public facing appearances, and recruitment events."
+    },
+    {
+      "organization": "NSSL",
+      "position": "NSSL Book Club Lead",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Designed and led a book club for NSSL employees to foster community and discuss important themes such as race, gender, class, and other intersectional experiences."
+    },
+    {
+      "organization": "NATIONAL WEATHER MUSEUM",
+      "position": "Board of Trustees",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Serve as member of the board of trustees, guiding the vision and future of the museum, and recruiting volunteers."
+    },
+    {
+      "organization": "NATIONAL WEATHER MUSEUM",
+      "position": "Museum Docent",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Volunteer at the National Weather Museum and Science Center giving tours to patrons and assisting with museum upkeep and events."
+    },
+    {
+      "organization": "AMERICAN METEOROLOGICAL SOCIETY",
+      "position": "Student Conference Volunteer (Poster competition judge)",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "organization": "VARIOUS JOURNALS",
+      "position": "Peer-reviewer",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Atmospheric Measurement Techniques, Boundary layer meteorology, Monthly Weather Review, Quarterly Journal of the Royal Meteorological Society, Journal of Applied Meteorology and Climatology, Tellus, and more."
+    },
+    {
+      "organization": "OU SCHOOL OF METEOROLOGY",
+      "position": "Student Affairs Committee (Doctoral representative)",
+      "startDate": "2016",
+      "endDate": "2018",
+      "summary": "Planned two large fundraiser event for the NWC community and developed a student-focused professional development series."
+    },
+    {
+      "organization": "OU SCHOOL OF METEOROLOGY",
+      "position": "Faculty Search Committee (Student representative)",
+      "startDate": "2016",
+      "endDate": "2017"
+    },
+    {
+      "organization": "AMERICAN METEOROLOGICAL SOC.",
+      "position": "Local Chapter Affairs Committee (Member 2013-2015, Chair 2016)",
+      "startDate": "2013",
+      "endDate": "2016"
+    },
+    {
+      "organization": "NSSL NDIST",
+      "position": "NSSL'S DEIA Strategic Implementation Plan (Author and Contributor)",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "organization": "Letters to a Pre-scientist",
+      "position": "Pen-pal letter writer",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
+      "organization": "OU COLLEGE OF ATMOSPHERIC AND GEOGRAPHIC SCIENCES",
+      "position": "College of Atmospheric and Geographic Science D&I Council (Affiliate Member and NSSL Liaison)",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
+      "organization": "NSSL",
+      "position": "NSSL Diversity and Inclusion Sustainability Team (NDIST) Member",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
+      "organization": "NATIONAL WEATHER CENTER",
+      "position": "National Weather Center Protocol (Author)",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Authored a document for participants in NWC partner activities to prevent negative behaviors (harassment, discrimination, assault) and provide support to victims. Approved by OU Legal and used by all NWC partners."
+    },
+    {
+      "organization": "CIMMS",
+      "position": "Diversity and Inclusion Committee (Founding Member)",
+      "startDate": "2018",
+      "endDate": "2020"
+    },
+    {
+      "organization": "VIA SKYPE-A-SCIENTIST AND LOCAL VISITS",
+      "position": "Volunteer Scientist (Classroom Outreach)",
+      "startDate": "2017",
+      "endDate": "Present"
     }
   ]
 }
