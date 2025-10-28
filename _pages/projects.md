@@ -87,7 +87,6 @@ Field deployments and research foci are described here.
 
 {% endfor %}
 {% endif %}
-{% endif %}
 
 {% if site.data.repositories.github_repos %}
 
