@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "research",
+          description: "Research foci, field deployments, and code",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -42,46 +42,101 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-plains-elevated-convection-at-night-pecan",
+          title: 'Plains Elevated Convection At Night (PECAN)',
+          description: "Field Scientist (2015)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/2015-pecan.html";
+            },},{id: "projects-mini-mesoscale-predictability-experiment-mini-mpex",
+          title: 'Mini-Mesoscale Predictability Experiment (mini-MPEX)',
+          description: "Field Scientist (2016)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/2016-mini-mpex.html";
+            },},{id: "projects-perdigão",
+          title: 'Perdigão',
+          description: "Field Scientist (2017)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/2017-perdigao.html";
+            },},{id: "projects-targeted-observation-by-radars-and-uas-of-supercells",
+          title: 'Targeted Observation by Radars and UAS of Supercells',
+          description: "Field Scientist (2019-2023)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/2019-torus.html";
+            },},{id: "projects-cimms-ddrf-boundary-layer-height",
+          title: 'CIMMS DDRF - Boundary Layer Height',
+          description: "Field Lead (2020)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/2020-cimms-ddrf.html";
+            },},{id: "projects-bliss-ful",
+          title: 'BLISS-FUL',
+          description: "Field and Science Lead (2021)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/2021-blissful.html";
+            },},{id: "projects-clamps-eol-collaboration",
+          title: 'CLAMPS-EOL Collaboration',
+          description: "Science Lead (2021)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/2021-clamps-eol.html";
+            },},{id: "projects-splash",
+          title: 'SPLASH',
+          description: "Lead (2021-2022)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
+              window.location.href = "/projects/2021-splash.html";
+            },},{id: "projects-uas-damage-survey-project",
+          title: 'UAS Damage Survey Project',
+          description: "Field Support Scientist and Mission Commander (2021-Present)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2021-uas-damage-survey.html";
+            },},{id: "projects-vortex-se-perils",
+          title: 'VORTEX-SE/PERiLS',
+          description: "Field Planning Lead (2021)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2021-vortex-se.html";
+            },},{id: "projects-awaken",
+          title: 'AWAKEN',
+          description: "NSSL/OU Profiling Lead (2022-2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022-awaken.html";
+            },},{id: "projects-vortex-usa-perils",
+          title: 'VORTEX-USA/PERiLS',
+          description: "NSSL Profiling Lead (2019-2023)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022-perils.html";
+            },},{id: "projects-tracer",
+          title: 'TRACER',
+          description: "NSSL Profiling Lead (2022)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022-tracer.html";
+            },},{id: "projects-scales",
+          title: 'SCALES',
+          description: "Lead/MesoSCALES Lead (2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024-scales.html";
+            },},{id: "projects-why2msie",
+          title: 'WHy2MSIE',
+          description: "NSSL Operations Lead (2024)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024-why2msie.html";
+            },},{id: "projects-convection-amp-near-storm-environment-research",
+          title: 'Convection &amp;amp; Near-Storm Environment Research',
+          description: "Improving the understanding and prediction of severe convection with mobile observing systems.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research-convection.html";
+            },},{id: "projects-atmospheric-observing-network-research",
+          title: 'Atmospheric Observing Network Research',
+          description: "Designing, deploying, and evaluating advanced atmospheric observing networks.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research-networks.html";
+            },},{id: "projects-boundary-layer-studies",
+          title: 'Boundary Layer Studies',
+          description: "Observing and understanding the structure and evolution of the Planetary Boundary Layer (PBL).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research-pbl.html";
+            },},{id: "projects-uncrewed-systems-uxs-research-and-operations",
+          title: 'Uncrewed Systems (UxS) Research and Operations',
+          description: "UxS leadership, development, and operational deployment for environmental sensing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research-uxs.html";
             },},{
         id: 'social-email',
         title: 'email',
