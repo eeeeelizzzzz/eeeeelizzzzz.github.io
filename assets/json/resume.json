@@ -78,7 +78,63 @@
       "summary": "Summa Cum Laude. Minors: Mathematics; Geographic Information Science-Emergency Management."
     }
   ],
-  "projects": [
+  "teaching and mentoring": [
+  {
+    "institution": "University of Oklahoma - School of Meteorology",
+    "studyType": "Instructor",
+    "endDate": "2021–Present",
+    "summary": "Developed and instruct a new slash-listed course: Advanced Observations for Lower Atmospheric Research, which is focused on first-hand student experience with research-grade instruments, group instruction, guest lectures, and data-focused projects. Implemented an ungrading approach in 2024. Course materials available online."
+  },
+  {
+    "institution": "University of Oklahoma - School of Meteorology",
+    "studyType": "Instructor, BUL Seminar Series",
+    "endDate": "2019–Present",
+    "summary": "Led the Boundary Layer, Urban Meteorology, & Land-Surface Processes Seminar series, including scheduling, moderating, and instructing and evaluating enrolled students. Involved with implementing peer-review activities and providing additional development opportunities."
+  },
+  {
+    "institution": "University of Oklahoma - School of Meteorology",
+    "studyType": "Instructor, Independent Study",
+    "endDate": "2019–Present",
+    "summary": "Serve as instructor/advisor for several research hour courses. Instructed multiple independent studies including METR4990 (2022, Doyle–Field Programs), METR5990 (2024, Tweedie–Remote Sensors, Ammon–Intro to WRF)."
+  },
+  {
+    "institution": "University of Oklahoma - School of Meteorology",
+    "studyType": "Guest Lecturer",
+    "endDate": "2019–Present",
+    "summary": "Provided guest lectures for courses including METR4922 Senior Capstone (2019), METR4424 Synoptic (2023), and METR2613 Instrumentation (2025)."
+  },
+  {
+    "institution": "University of Oklahoma - School of Meteorology",
+    "studyType": "Teaching Assistant",
+    "endDate": "2015–2018",
+    "summary": "Instructed and helped develop the lab portion of Meteorological Measurement Systems, a junior-level, writing-intensive course. Taught observation techniques from calibration to characterization. Developed new material to enhance scientific writing instruction, modernized lab experiments, and created Python coding assignments. Offered coding/writing help sessions and guest lectured for the lecture component."
+  },
+  {
+    "institution": "University of Oklahoma (CIWRO/CIMMS/NSSL)",
+    "studyType": "Graduate Student Advisor / Committee Member",
+    "endDate": "2019–Present",
+    "summary": "Serve as co-advisor and/or committee member for graduate students. Students include: **Michelle (Spencer) Storm** (Ph.D., 2022–2025), **Matt Ammon** (Ph.D./M.S., 2022–Present), **Arianna Jordan** (Ph.D., 2020–Present), **Abdullah al Tasim** (Ph.D./M.S., 2022–2025), **Nolan Meister** (M.S., 2020–2022), and **Jordan Laser** (M.S., 2019–2021)."
+  },
+  {
+    "institution": "CIWRO/NSSL",
+    "studyType": "Postdoc & Staff Supervisor",
+    "endDate": "2021–2025",
+    "summary": "Supervise postdoctoral researchers and provide technical leadership to research Staff. **Dr. Elizabeth Tirone** (Postdoc, 2024–2025): Mentoring on UAS imaging and big data."
+  },
+  {
+    "institution": "NOAA / NSSL / University of Oklahoma",
+    "studyType": "Internship & Undergraduate Mentor",
+    "endDate": "2019–Present",
+    "summary": "Mentor for student interns (REU, Lapenta, EPP/MSI) and supervisor for undergraduate researchers on funded projects. Students include: **Alejandro Medina** (NOAA EPP/MSI, 2025), **Josh Ostazewski** (NOAA Lapenta, 2023), **Nadiyah Williams** (NOAA Lapenta, 2022),**Victor Alvarez** (Undergraduate Research, 2021–2023) & **Marshall Baldwin** (Undergraduate Research 2021–2023): Supervised work to modernize the CLAMPS historical archive and webviewer. **Isaac Medina** (NWC REU & Student Researcher, 2021–2024), **Dana Pawlowski** (NWC REU, 2021), **Michelle Spencer** (NWC REU, 2019–2021), **Tyler Pardun** (Student Researcher, 2019–2021), and **Katie Giannakopolous** (Student Researcher, 2020–2022)."
+  },
+  {
+    "institution": "University of Oklahoma",
+    "studyType": "Senior Capstone Mentor",
+    "endDate": "2019–2024",
+    "summary": "Advised multiple senior capstone teams. **Aerospace Engineering (2023–2024)**: Advised 4-student team on automated UAS landing/charging. **School of Meteorology (2019–2020)**: Mentored two teams on projects using TORUS lidar data and analyzing hodograph/supercell characteristics."
+  }
+],
+  "research funding": [
     {
       "name": "Observing the Air-Sea Transition Zone Using Coordinated UxS",
       "description": "Deploys coordinated uncrewed systems (UUV, USV, UAV) to make simultaneous, collocated air-sea interface measurements.",
@@ -225,7 +281,9 @@
       "keywords": ["PI", "NOAA/OAR/OWAQ - Boundary Layer", "$142K-Funded"],
       "startDate": "2019",
       "endDate": "2019"
-    },
+    }
+  ],
+  "fieldwork:"  [
     {
       "name": "WHY2MSIE",
       "description": "Participated in NASA planetary boundary-layer (PBL) mission prototype by operating CLAMPS-1 (OU), CLAMPS-2 (NSSL), and deploying CopterSondes during NASA ER-2 aircraft overflights. Led coordination of these deployments and oversaw data collection.",
