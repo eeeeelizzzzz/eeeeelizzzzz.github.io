@@ -311,39 +311,39 @@
   type: "time_table"
   contents:
     - year: "2022"
-      items:
+      description: # Corrected from 'items'
         - "OAR EEO/Diversity Award for a Group - EEO Advisory Committee (NOAA OAR)"
     - year: "2020"
-      items:
+      description: # Corrected from 'items'
         - "OAR EEO/Diversity Award for Exemplary Service (NOAA OAR)"
     - year: "2019"
-      items:
+      description: # Corrected from 'items'
         - "Douglas Lilly Paper Award (for 2019 MWR Publication) (OU SCHOOL OF METEOROLOGY)"
     - year: "2018"
-      items:
+      description: # Corrected from 'items'
         - "Outstanding Poster Award (OKLAHOMA WOMEN IMPACTING STEM AND ENTREPRENEURSHIP CONFERENCE)"
     - year: "2017"
-      items:
+      description: # Corrected from 'items'
         - "Director's Recognition for Service to the Department (OU SCHOOL OF METEOROLOGY)"
         - "First Place Student Oral Presentation, 24th Conference on NWP (AMERICAN METEOROLOGICAL SOCIETY)"
     - year: "2016"
-      items:
+      description: # Corrected from 'items'
         - "Faculty Recognition for Outstanding Performance as a Graduate Student (OU SCHOOL OF METEOROLOGY)"
     - year: "2014-2015"
-      items:
+      description: # Corrected from 'items'
         - "Lockheed Martin Graduate Fellowship (AMERICAN METEOROLOGICAL SOCIETY)"
     - year: "2013"
-      items:
+      description: # Corrected from 'items'
         - "Michael A Roberts, Jr. Undergraduate Scholarship (AMERICAN METEOROLOGICAL SOCIETY)"
         - "NOAA Science and Education Symposium Award (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION)"
     - year: "2012-2014"
-      items:
+      description: # Corrected from 'items'
         - "NOAA Ernest F. Hollings Scholarship (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION)"
     - year: "2012"
-      items:
+      description: # Corrected from 'items'
         - "Phillips Family Scholarship (NATIONAL WEATHER ASSOCIATION)"
     - year: "2010-2014"
-      items:
+      description: # Corrected from 'items'
         - "Presidential Scholar (CALIFORNIA UNIVERSITY OF PENNSYLVANIA)"
 
 - title: "Service and Volunteer Work"
