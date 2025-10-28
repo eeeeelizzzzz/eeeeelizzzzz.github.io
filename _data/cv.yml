@@ -2,96 +2,429 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: Elizabeth N. Smith, Ph.D.
+    - name: Label
+      value: Research Meteorologist
+    - name: Email
+      value: elizabeth.smith@noaa.gov
+    - name: Phone
+      value: +1405-294-6560
+    - name: Location
+      value: Norman, OK
+    - name: Website
+      value: https://linktr.ee/elizabeth.smith
+    - name: Summary
+      value: Specialize in atmospheric observations, including boundary-layer profilers and un-crewed aircraft systems (UAS). Develop next-generation observing networks to understand processes relevant to convection initiation and pre-storm environments.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Meteorologist
+      institution: NOAA - National Severe Storms Laboratory, Norman, OK
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Specialize in atmospheric observations, including boundary-layer profilers and un-crewed aircraft systems (UAS). Develop next-generation observing networks to understand processes relevant to convection initiation and pre-storm environments.
+    - title: Affiliate Assistant Professor
+      institution: University of Oklahoma School of Meteorology, Norman, OK
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Mentor undergraduate research assistants and interns. Advise MS and Ph.D. students. Periodically teach, including designing and instructing an elective undergraduate/graduate level course: Advanced Observations for Lower Atmospheric Research.
+    - title: Post-Doctoral Research Associate
+      institution: Cooperative Institute for Mesoscale Meteorological Studies, Norman, OK
+      year: 2019
       description:
+        - Focused on development and deployment of NSSL boundary-layer profiling systems. Explored experimental systems for advancing understanding of severe convective weather. Considered systems to enhance the NOAA upper-air observing network.
+    - title: Graduate Research Assistant
+      institution: University of Oklahoma - School of Meteorology, Norman, OK
+      year: 2014 - 2018
+      description:
+        - Researched nocturnal low-level jets and boundary layers using numerical simulation methods and meteorological observing platforms as part of the BLISS group. Served as part of the first group of CLAMPS-1 operators. Assisted in the initial development of CLAMPS-2.
+    - title: NWS WFO CYS Intern
+      institution: NOAA Education Hollings Intern - National Weather Service, Cheyenne, WY
+      year: 2013
+      description:
+        - Examined the role of two-inch soil temperatures on early- and late-season snowfall accumulation. Worked with forecasters to understand forecast problems and develop trial guidance based on visibility observations. Awarded first place among Hollings cohort for research project. Assisted on the operations floor with forecasts, warnings, community decision support, and completed warning event simulations.
+    - title: Meteorology Intern
+      institution: WOWK Channel 13, Charleston, WV
+      year: 2012
+      description:
+        - Prepared forecasts and weather graphics for the Charleston viewing area and a West Virginia state-wide broadcast. Operated the Emergency Alert Crawler during severe weather days. Fielded calls and social media messages from the public and ran the NWS Chat system.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ph.D. in Meteorology
+      institution: University of Oklahoma
+      year: Dec. 2018
+      description:
+        - "Dissertation: The Great Plains Nocturnal Low-Level Jet: Spatial and Temporal Evolution. Advisors: Dr. Petra Klein and Dr. Evgeni Fedorovich. Non-thesis M.S. degree awarded concurrently with Ph.D. studies (2017)."
+    - title: B.S. in Earth Sci.-Meteorology
+      institution: California University of Pennsylvania (now PennWest-California)
+      year: May 2014
+      description:
+        - "Summa Cum Laude. Minors: Mathematics; Geographic Information Science-Emergency Management."
+
+- title: Teaching and Mentoring
+  type: time_table
+  contents:
+    - title: Instructor
+      institution: University of Oklahoma - School of Meteorology
+      year: 2021–Present
+      description:
+        - Developed and instruct a new slash-listed course: Advanced Observations for Lower Atmospheric Research, which is focused on first-hand student experience with research-grade instruments, group instruction, guest lectures, and data-focused projects. Implemented an ungrading approach in 2024. Course materials available online.
+    - title: Instructor, BUL Seminar Series
+      institution: University of Oklahoma - School of Meteorology
+      year: 2019–Present
+      description:
+        - Led the Boundary Layer, Urban Meteorology, & Land-Surface Processes Seminar series, including scheduling, moderating, and instructing and evaluating enrolled students. Involved with implementing peer-review activities and providing additional development opportunities.
+    - title: Instructor, Independent Study
+      institution: University of Oklahoma - School of Meteorology
+      year: 2019–Present
+      description:
+        - Serve as instructor/advisor for several research hour courses. Instructed multiple independent studies including METR4990 (2022, Doyle–Field Programs), METR5990 (2024, Tweedie–Remote Sensors, Ammon–Intro to WRF).
+    - title: Guest Lecturer
+      institution: University of Oklahoma - School of Meteorology
+      year: 2019–Present
+      description:
+        - Provided guest lectures for courses including METR4922 Senior Capstone (2019), METR4424 Synoptic (2023), and METR2613 Instrumentation (2025).
+    - title: Teaching Assistant
+      institution: University of Oklahoma - School of Meteorology
+      year: 2015–2018
+      description:
+        - Instructed and helped develop the lab portion of Meteorological Measurement Systems, a junior-level, writing-intensive course. Taught observation techniques from calibration to characterization. Developed new material to enhance scientific writing instruction, modernized lab experiments, and created Python coding assignments. Offered coding/writing help sessions and guest lectured for the lecture component.
+    - title: Graduate Student Advisor / Committee Member
+      institution: University of Oklahoma (CIWRO/CIMMS/NSSL)
+      year: 2019–Present
+      description:
+        - "Serve as co-advisor and/or committee member for graduate students. Students include: **Michelle (Spencer) Storm** (Ph.D., 2022–2025), **Matt Ammon** (Ph.D./M.S., 2022–Present), **Arianna Jordan** (Ph.D., 2020–Present), **Abdullah al Tasim** (Ph.D./M.S., 2022–2025), **Nolan Meister** (M.S., 2020–2022), and **Jordan Laser** (M.S., 2019–2021)."
+    - title: Postdoc & Staff Supervisor
+      institution: CIWRO/NSSL
+      year: 2021–2025
+      description:
+        - "Supervise postdoctoral researchers and provide technical leadership to research Staff. **Dr. Elizabeth Tirone** (Postdoc, 2024–2025): Mentoring on UAS imaging and big data."
+    - title: Internship & Undergraduate Mentor
+      institution: NOAA / NSSL / University of Oklahoma
+      year: 2019–Present
+      description:
+        - "Mentor for student interns (REU, Lapenta, EPP/MSI) and supervisor for undergraduate researchers on funded projects. Students include: **Alejandro Medina** (NOAA EPP/MSI, 2025), **Josh Ostazewski** (NOAA Lapenta, 2023), **Nadiyah Williams** (NOAA Lapenta, 2022),**Victor Alvarez** (Undergraduate Research, 2021–2023) & **Marshall Baldwin** (Undergraduate Research 2021–2023): Supervised work to modernize the CLAMPS historical archive and webviewer. **Isaac Medina** (NWC REU & Student Researcher, 2021–2024), **Dana Pawlowski** (NWC REU, 2021), **Michelle Spencer** (NWC REU, 2019–2021), **Tyler Pardun** (Student Researcher, 2019–2021), and **Katie Giannakopolous** (Student Researcher, 2020–2022)."
+    - title: Senior Capstone Mentor
+      institution: University of Oklahoma
+      year: 2019–2024
+      description:
+        - "**Aerospace Engineering (2023–2024)**: Advised 4-student team on automated UAS landing/charging. **School of Meteorology (2019–2020)**: Mentored two teams on projects using TORUS lidar data and analyzing hodograph/supercell characteristics."
+
+- title: Research Funding
+  type: time_table
+  contents:
+    - title: Observing the Air-Sea Transition Zone Using Coordinated UxS
+      institution: NOAA CPO TPEX-Central
+      year: 2025 - 2027
+      description:
+        - Deploys coordinated uncrewed systems (UUV, USV, UAV) to make simultaneous, collocated air-sea interface measurements.
+        - "**Role:** Co-PI, **Status:** $731K-Recommended"
+    - title: CopterSonde LAAIRS: Laboratory for Advanced Atmospheric Investigation using Robotic Sondes
+      institution: UxSOC Breakthrough in UxS RFP
+      year: 2025 - 2027
+      description:
+        - Aims to enable unattended, autonomous CopterSonde operations by developing precision landing, automated charging, remote communication, and environmental resilience.
+        - "**Role:** PI, **Status:** $1M-Funded"
+    - title: Precision Landing and Auto-Charging for Weather-Sensing UAS
+      institution: CIWRO Director's Discretionary Research Fund
+      year: 2023 - 2025
+      description:
+        - Supported the proof-of-concept design for CopterSonde precision landing/auto-charging; role included conceptual design and capstone team supervision.
+        - "**Role:** Collaborator, **Status:** $25.5K-Funded"
+    - title: PRODIGEE-UAS
+      institution: NOAA UXSRTO Research and Development
+      year: 2023 - 2025
+      description:
+        - Advances CopterSonde UAS capabilities through R&D in hardware, autopilot functions, immediate data dissemination, and supporting software/SOPs.
+        - "**Role:** PI, **Status:** $432.5K-Funded"
+    - title: Venturing Into the Vertical
+      institution: NOAA/WPO Mesonet BL Observations
+      year: 2023 - 2025
+      description:
+        - Performs Observing System Simulation Experiments (OSSEs) to determine the optimal design of a 3D boundary-layer profiling mesonet to fill data gaps.
+        - "**Role:** Co-PI, **Status:** $600K-Funded"
+    - title: American Wake Experiment (AWAKEN) - Year 2
+      institution: NOAA - DOE Inter-agency Agreement
+      year: 2022 - 2023
+      description:
+        - Led the deployment and oversight of the CLAMPS2 facility to sample flow undisturbed by turbine wakes as part of the AWAKEN campaign.
+        - "**Role:** Co-PI, **Status:** $24.5K-Funded"
+    - title: Deployment of CLAMPS + UAS Network-in-Network Profilers
+      institution: NOAA VORTEX-USA - CLAMPS + UAS
+      year: 2022 - 2024
+      description:
+        - Coupled ground-based profilers (CLAMPS) with UAS platforms to measure properties critical to high-impact weather in the SE US, parallel to the PERILS effort.
+        - "**Role:** PI, **Status:** $80K-Funded"
+    - title: Analysis and OSEs of UAS observations for improved high impact weather forecasts
+      institution: NOAA/WPO - UAS and High Impact Weather
+      year: 2020 - 2022
+      description:
+        - Deployed UAS to collect vertical profiles for analysis, assimilation into NSSL's Warn on Forecast System, and exploration with NWS forecasters.
+        - "**Role:** Collaborator, **Status:** $575K-Funded"
+    - title: American Wake Experiment (AWAKEN) - Year 1
+      institution: NOAA - DOE Inter-agency Agreement
+      year: 2020 - 2021
+      description:
+        - Contributed to experimental design and provided expertise on ground-based thermodynamic profiling to understand how turbine wakes affect wind farm efficiency.
+        - "**Role:** Co-PI, **Status:** $12.5K-Funded"
+    - title: SPLASH-SAIL and continued PBL Analyses
+      institution: NOAA/OAR/OWAQ - Boundary Layer Continued Support
+      year: 2021
+      description:
+        - Supported analysis of CHEESHEAD data and the deployment of CLAMPS2 to Crested Butte, CO, for the SPLASH-SAIL campaign to evaluate PBL evolution.
+        - "**Role:** PI, **Status:** $117K-Funded"
+    - title: Coastal Urban Boundary-layer Interactions with Convection (CUBIC)
+      institution: DOE/OSBER/ASR - TRACER-CUBIC
+      year: 2020 - 2022
+      description:
+        - Supported collection of high-resolution data on boundary layer processes and thermal circulation in a coastal urban region, adding value to the TRACER project.
+        - "**Role:** Co-PI, **Status:** $300K-Funded"
+    - title: Evaluating Polarimetric Retrievals of Boundary Layer Height...
+      institution: CIMMS Director's Discretionary Research Fund
+      year: 2020 - 2021
+      description:
+        - Supported data collection and analysis to evaluate a proposed method for boundary layer height detection from operational WSR-88D radar.
+        - "**Role:** Co-PI, **Status:** $37K-Funded"
+    - title: CHEESEHEAD Analysis
+      institution: NOAA/OAR/OWAQ - Boundary Layer Analysis Next
+      year: 2020 - 2021
+      description:
+        - Supported the analysis of data collected during the CHEESHEAD deployment period.
+        - "**Role:** PI, **Status:** $117K-Funded"
+    - title: Defining the capabilities of boundary layer profiling systems...
+      institution: NOAA/OAR/OWAQ - VORTEX-SE
+      year: 2019 - 2021
+      description:
+        - Used VORTEX-SE boundary layer profile observations to evaluate profiling platforms, inform future deployments, and assess operational forecast tools.
+        - "**Role:** PI, **Status:** $300K-Funded"
+    - title: CHEESEHEAD Data Collection
+      institution: NOAA/OAR/OWAQ - Boundary Layer
+      year: 2019
+      description:
+        - Supported the deployment of both CLAMPS platforms in northern Wisconsin to characterize surface conditions and the overlying atmosphere.
+        - "**Role:** PI, **Status:** $142K-Funded"
+    # NOTE: Declined proposals are omitted, but you could create a separate section for them.
+
+- title: Field Deployments
+  type: time_table
+  contents:
+    - title: WHY2MSIE
+      year: 2024
+      description:
+        - "**Role:** NSSL Operations Lead"
+        - Participated in NASA planetary boundary-layer (PBL) mission prototype by operating CLAMPS-1 (OU), CLAMPS-2 (NSSL), and deploying CopterSondes during NASA ER-2 aircraft overflights. Led coordination of these deployments and oversaw data collection.
+    - title: SCALES LEAD/MESOSCALES LEAD
+      year: 2024
+      description:
+        - "**Role:** Lead"
+        - Led the design, organization, and execution of the Small-UAS Coordination for Atmospheric Low-Level Environmental Sampling (SCALES) project, which operated as the 2024 ISARRA Flight Week. Coordinated international participants. Project goals included: MesoSCALES (3D mesonet deployment), MicroSCALES (urban Tulsa deployment), and Technical (UAS safety case).
+    - title: AWAKEN
+      year: 2022 - 2023
+      description:
+        - "**Role:** NSSL/OU Profiling Lead"
+        - Planned and executed the AWAKEN CLAMPS missions, deploying both CLAMPS1 and CLAMPS2 in northern Oklahoma. Collaborated with DOE laboratories, private wind energy companies, and other NOAA labs.
+    - title: TRACER
+      year: 2022
+      description:
+        - "**Role:** NSSL Profiling Lead"
+        - Served as NSSL profiling PI, leading the CLAMPS planning and deployment of the CLAMPS2 platform to Houston, TX. Assisted with the CopterSonde and GeoCarb missions on site.
+    - title: PERILS
+      year: 2022 - 2023
+      description:
+        - "**Role:** NSSL Profiling Lead"
+        - Served as NSSL profiling PI, leading CLAMPS deployment planning and execution. Led and managed the CopterSonde project, including NOAA UAS processes and executing 100+ flights. Worked as part of the PI team and designed/led local field safety training.
+    - title: SPLASH
+      year: 2021 - 2022
+      description:
+        - "**Role:** Lead"
+        - Led NSSL's planning, execution, and collaboration for participation in the SPLASH campaign. Managed the technically difficult deployment of CLAMPS in Crested Butte, CO (10K ft) from October-January.
+    - title: CLAMPS-EOL Collaboration
+      year: 2021
+      description:
+        - "**Role:** Science Lead"
+        - Led the design of a month-long CLAMPS-1 facility deployment to the Marshal field site in Boulder, CO. Deployment supported EOL's progress toward LOTOS and built new collaborations.
+    - title: BLISS-FUL
+      year: 2021
+      description:
+        - "**Role:** Field and Science Lead"
+        - Led the design, proposal, and execution of the BLISS Field Universalization Lab, a month-long test deployment of NWC community boundary layer sensors. Provided opportunities for students to submit their own IOP requests.
+    - title: UAS Damage Survey Project
+      year: 2021 - 2022
+      description:
+        - "**Role:** Field Support Scientist"
+        - Deployed multiple times to the SE US to support a project imaging and collecting measurements over tornado paths. Work included traditional damage surveys, NWS collaboration, and public interaction.
+    - title: VORTEX-SE/PERILS
+      year: 2021
+      description:
+        - "**Role:** Field Planning Lead"
+        - Moved into a leading role in planning boundary layer profiling deployments for future missions after COVID-19 delays.
+    - title: CIMMS DDRF - Boundary Layer Height
+      year: 2020
+      description:
+        - "**Role:** Field Lead"
+        - Led the design, organization, and 4-week deployment of two mobile boundary layer profiling platforms across three sites. Role included oversight, management, data collection/management, and development of new BL height detection algorithms.
+    - title: Targeted Observation by Radars and UAS of Supercells (TORUS)
+      year: 2019 - 2023
+      description:
+        - "**Role:** Field Scientist"
+        - Assisted in development (hardware/software) and led deployment of a platform for mobile single- and dual-lidar observations near storms. Role included independent leadership, student mentoring, advising PI team, and coordinating mobile lidar deployments.
+    - title: Perdigão
+      year: 2017
+      description:
+        - "**Role:** Field Scientist"
+        - Served as group lead for the OU team operating a profiling system (mini-CLAMPS). Assisted NCAR in releasing radiosondes to measure atmospheric flow in complex terrain in Perdigão, Portugal.
+    - title: Mini-Mesoscale Predictability Experiment (mini-MPEX)
+      year: 2016
+      description:
+        - "**Role:** Field Scientist"
+        - Operated a mobile profiling platform (NOAA-NSSL CLAMPS2) and released radiosondes to observe near- and far-field environments near severe supercell thunderstorms.
+    - title: Plains Elevated Convection At Night (PECAN)
+      year: 2015
+      description:
+        - "**Role:** Field Scientist"
+        - Operated a mobile profiling platform (OU-NSSL CLAMPS1) and released radiosondes to observe nocturnal environments (e.g., MCSs, bores, low-level jets) in the Great Plains.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical
+      items:
+        - Python (proficient)
+        - LaTeX (proficient)
+        - "Weather Research and Forecast (WRF) Model (proficient)"
+        - MATLAB (working knowledge)
+        - HTML (working knowledge)
+        - Unix (working knowledge)
+        - ArcGIS (working knowledge)
+        - HPC platforms (working knowledge)
+    - title: Uncrewed Aircraft Systems
+      items:
+        - NOAA UAS Mission Commander
+        - FAA Certificated UAS Pilot
+        - Certified on CopterSonde (3D/SWX-Q, iMet3)
+        - Certified on NSSL UAS platforms (Trinity Fgo+, Skydio2)
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - OAR EEO/Diversity Award for a Group - EEO Advisory Committee (NOAA OAR)
+    - year: 2020
       items:
-        - Max Planck Medal
+        - OAR EEO/Diversity Award for Exemplary Service (NOAA OAR)
+    - year: 2019
+      items:
+        - Douglas Lilly Paper Award (for 2019 MWR Publication) (OU SCHOOL OF METEOROLOGY)
+    - year: 2018
+      items:
+        - Outstanding Poster Award (OKLAHOMA WOMEN IMPACTING STEM AND ENTREPRENEURSHIP CONFERENCE)
+    - year: 2017
+      items:
+        - Director's Recognition for Service to the Department (OU SCHOOL OF METEOROLOGY)
+        - First Place Student Oral Presentation, 24th Conference on NWP (AMERICAN METEOROLOGICAL SOCIETY)
+    - year: 2016
+      items:
+        - Faculty Recognition for Outstanding Performance as a Graduate Student (OU SCHOOL OF METEOROLOGY)
+    - year: 2014-2015
+      items:
+        - Lockheed Martin Graduate Fellowship (AMERICAN METEOROLOGICAL SOCIETY)
+    - year: 2013
+      items:
+        - Michael A Roberts, Jr. Undergraduate Scholarship (AMERICAN METEOROLOGICAL SOCIETY)
+        - NOAA Science and Education Symposium Award (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION)
+    - year: 2012-2014
+      items:
+        - NOAA Ernest F. Hollings Scholarship (NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION)
+    - year: 2012
+      items:
+        - Phillips Family Scholarship (NATIONAL WEATHER ASSOCIATION)
+    - year: 2010-2014
+      items:
+        - Presidential Scholar (CALIFORNIA UNIVERSITY OF PENNSYLVANIA)
 
-- title: Academic Interests
-  type: nested_list
+- title: Service and Volunteer Work
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Subject Matter Editor, BAMS, Observations
+      institution: AMERICAN METEOROLOGICAL SOCIETY
+      year: 2022 - Present
+    - title: NSSL'S DEIA Strategic Implementation Plan (Author and Contributor)
+      institution: NSSL NDIST
+      year: 2022 - 2024
+    - title: "Faculty Search Committee | BL/DYNAMICS OPEN RANK, BL OBSERVATIONS ASST."
+      institution: OU SCHOOL OF METEOROLOGY
+      year: 2022
+    - title: Group Lead
+      institution: BLISS GROUP (BOUNDARY LAYER INTEGRATED SENSING AND SIMULATION GROUP)
+      year: 2020 - Present
+      description:
+        - Re-founded, organized, and currently co-lead the BLISS cross-institution group.
+    - title: "Associate Editor | Monthly Weather Review (2020-Present); Journal of Atmospheric Science (2020-2024)"
+      institution: AMERICAN METEOROLOGICAL SOCIETY
+      year: 2020 - Present
+    - title: Alt. Rep. for NSSL
+      institution: NOAA OAR EEO ADVISORY COMMITTEE
+      year: 2020 - Present
+    - title: Outreach and Engagement
+      institution: NSSL
+      year: 2020 - Present
+      description:
+        - Regularly participate in educational outreach, media engagement, public facing appearances, and recruitment events.
+    - title: NSSL Book Club Lead
+      institution: NSSL
+      year: 2020 - 2022
+      description:
+        - Designed and led a book club for NSSL employees to foster community and discuss important themes such as race, gender, class, and other intersectional experiences.
+    - title: Pen-pal letter writer
+      institution: Letters to a Pre-scientist
+      year: 2020 - Present
+    - title: College of Atmospheric and Geographic Science D&I Council (Affiliate Member and NSSL Liaison)
+      institution: OU COLLEGE OF ATMOSPHERIC AND GEOGRAPHIC SCIENCES
+      year: 2020 - Present
+    - title: NSSL Diversity and Inclusion Sustainability Team (NDIST) Member
+      institution: NSSL
+      year: 2020 - Present
+    - title: Diversity and Inclusion Committee (Founding Member)
+      institution: CIMMS
+      year: 2018 - 2020
+    - title: Board of Trustees
+      institution: NATIONAL WEATHER MUSEUM
+      year: 2019 - Present
+      description:
+        - Serve as member of the board of trustees, guiding the vision and future of the museum, and recruiting volunteers.
+    - title: National Weather Center Protocol (Author)
+      institution: NATIONAL WEATHER CENTER
+      year: 2019
+      description:
+        - Authored a document for participants in NWC partner activities to prevent negative behaviors (harassment, discrimination, assault) and provide support to victims. Approved by OU Legal and used by all NWC partners.
+    - title: Museum Docent
+      institution: NATIONAL WEATHER MUSEUM
+      year: 2018 - Present
+      description:
+        - Volunteer at the National Weather Museum and Science Center giving tours to patrons and assisting with museum upkeep and events.
+    - title: Student Conference Volunteer (Poster competition judge)
+      institution: AMERICAN METEOROLOGICAL SOCIETY
+      year: 2018 - 2019
+    - title: Volunteer Scientist (Classroom Outreach)
+      institution: VIA SKYPE-A-SCIENTIST AND LOCAL VISITS
+      year: 2017 - Present
+    - title: Peer-reviewer
+      institution: VARIOUS JOURNALS
+      year: 2016 - Present
+      description:
+        - Atmospheric Measurement Techniques, Boundary layer meteorology, Monthly Weather Review, Quarterly Journal of the Royal Meteorological Society, Journal of Applied Meteorology and Climatology, Tellus, and more.
+    - title: Student Affairs Committee (Doctoral representative)
+      institution: OU SCHOOL OF METEOROLOGY
+      year: 2016 - 2018
+      description:
+        - Planned two large fundraiser event for the NWC community and developed a student-focused professional development series.
+    - title: Faculty Search Committee (Student representative)
+      institution: OU SCHOOL OF METEOROLOGY
+      year: 2016 - 2017
+    - title: Local Chapter Affairs Committee (Member 2013-2015, Chair 2016)
+      institution: AMERICAN METEOROLOGICAL SOC.
+      year: 2013 - 2016
