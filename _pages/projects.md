@@ -1,56 +1,20 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: Research foci, field deployments, and code
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, field deployments]
 horizontal: false
----
-
-
-{% if site.data.repositories.github_users %}
-
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
 
 ---
+My research focuses on observing and understanding the lower atmosphere—the boundary layer—where most high-impact weather develops. I specialize in designing and deploying advanced observing systems to fill critical data gaps, with a primary goal of improving the prediction of severe convection, tornadoes, and other hazardous weather.
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+To do this, I lead and participate in complex field campaigns and R&D projects. My work integrates state-of-the-art mobile profilers (like the CLAMPS systems), Doppler lidars, and next-generation Uncrewed Aircraft Systems (UAS). My efforts range from foundational boundary layer physics and hardware development (including a co-invented patent on UAS technology) to operational forecast improvement (testing data in the Warn-on-Forecast system) and post-storm damage assessment. 
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
+Field deployments and research foci are described here. 
 ---
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-
----
-
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -105,3 +69,36 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+---
+
+
+{% if site.repo_trophies.enabled %}
+{% for user in site.data.repositories.github_users %}
+{% if site.data.repositories.github_users.size > 1 %}
+
+  <h4>{{ user }}</h4>
+  {% endif %}
+  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username=user %}
+  </div>
+
+---
+
+{% endfor %}
+{% endif %}
+{% endif %}
+
+{% if site.data.repositories.github_repos %}
+
+## GitHub Repositories
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
+---
+
