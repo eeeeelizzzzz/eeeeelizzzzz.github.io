@@ -2,6 +2,7 @@
 layout: page
 title: Mini-Mesoscale Predictability Experiment (mini-MPEX)
 description: Field Scientist (2016)
+img: assets/img/project_img/miniMPEX.jpg
 importance: 14
 category: field deployments
 ---

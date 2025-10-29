@@ -2,6 +2,7 @@
 layout: page
 title: Convection & Near-Storm Environment Research
 description: Improving the understanding and prediction of severe convection with mobile observing systems.
+img: assets/img/project_img/convection.jpg
 importance: 3
 category: research
 ---

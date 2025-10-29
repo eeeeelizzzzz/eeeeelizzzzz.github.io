@@ -2,6 +2,7 @@
 layout: page
 title: Boundary Layer Studies
 description: Observing and understanding the structure and evolution of the Planetary Boundary Layer (PBL).
+img: assets/img/project_img/pbl.jpg
 importance: 4
 category: research
 ---

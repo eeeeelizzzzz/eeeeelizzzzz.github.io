@@ -1,14 +1,15 @@
 ---
 layout: page
 title: VORTEX-USA/PERiLS
-description: NSSL Profiling Lead (2019-2023)
+description: NSSL Profiling Lead (2016-2023)
+img: assets/img/project_img/PERILS.jpg
 importance: 5
 category: field deployments
 ---
 
 ### My Role
 
-* Served as NSSL profiling PI, leading CLAMPS deployment planning and execution.
+* Served as NSSL profiling PI, leading CLAMPS deployment planning and execution over the multiple years of VORTEX-SE/USA and then for PERiLS
 * Led and managed the CopterSonde project, including NOAA UAS processes and executing 100+ flights.
 * Worked as part of the PI team during the field season and designed/led local field safety training.
 

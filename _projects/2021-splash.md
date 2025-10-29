@@ -2,6 +2,7 @@
 layout: page
 title: SPLASH
 description: Lead (2021-2022)
+img: assets/img/project_img/splash.JPG
 importance: 6
 category: field deployments
 ---

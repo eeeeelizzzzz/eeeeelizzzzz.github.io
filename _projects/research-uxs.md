@@ -2,6 +2,7 @@
 layout: page
 title: Uncrewed Systems (UxS) Research and Operations
 description: UxS leadership, development, and operational deployment for environmental sensing.
+img: assets/img/project_img/uxs.jpg
 importance: 1
 category: research
 ---

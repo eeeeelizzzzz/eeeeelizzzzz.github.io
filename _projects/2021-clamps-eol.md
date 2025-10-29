@@ -2,6 +2,7 @@
 layout: page
 title: CLAMPS-EOL Collaboration
 description: Science Lead (2021)
+img: assets/img/project_img/eol.jpeg
 importance: 7
 category: field deployments
 ---

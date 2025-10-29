@@ -2,6 +2,7 @@
 layout: page
 title: WHy2MSIE
 description: NSSL Operations Lead (2024)
+img: assets/img/project_img/why2msie.jpg
 importance: 1
 category: field deployments
 ---

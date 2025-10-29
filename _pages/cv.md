@@ -5,6 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv.pdf # you can also use external links here
+img: assets/pdf/CV.pdf
 description: You can click the icon above to download a PDF version
 toc:
   sidebar: left

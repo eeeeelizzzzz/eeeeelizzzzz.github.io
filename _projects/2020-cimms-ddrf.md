@@ -2,6 +2,7 @@
 layout: page
 title: CIMMS DDRF - Boundary Layer Height
 description: Field Lead (2020)
+img: assets/img/project_img/PBLTops.jpg
 importance: 11
 category: field deployments
 ---

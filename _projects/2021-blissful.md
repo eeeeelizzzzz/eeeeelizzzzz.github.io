@@ -2,6 +2,7 @@
 layout: page
 title: BLISS-FUL
 description: Field and Science Lead (2021)
+img: assets/img/project_img/blissful.jpg
 importance: 8
 category: field deployments
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: UAS Damage Survey Project
 description: Field Support Scientist and Mission Commander (2021-Present)
+img: assets/img/project_img/survey.gif
 importance: 9
 category: field deployments
 ---

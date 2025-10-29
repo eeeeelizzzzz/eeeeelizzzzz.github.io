@@ -2,6 +2,7 @@
 layout: page
 title: Plains Elevated Convection At Night (PECAN)
 description: Field Scientist (2015)
+img: assets/img/project_img/PECAN.JPG
 importance: 15
 category: field deployments
 ---

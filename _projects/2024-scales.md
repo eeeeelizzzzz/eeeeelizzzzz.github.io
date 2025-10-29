@@ -2,6 +2,7 @@
 layout: page
 title: SCALES
 description: Lead/MesoSCALES Lead (2024)
+img: assets/img/project_img/scales.jpg
 importance: 2
 category: field deployments
 ---

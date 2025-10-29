@@ -2,6 +2,7 @@
 layout: page
 title: TRACER
 description: NSSL Profiling Lead (2022)
+img: assets/img/project_img/tracer.jpg
 importance: 4
 category: field deployments
 ---

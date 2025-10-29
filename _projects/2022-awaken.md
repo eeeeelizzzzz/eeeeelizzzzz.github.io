@@ -2,6 +2,7 @@
 layout: page
 title: AWAKEN
 description: NSSL/OU Profiling Lead (2022-2023)
+img: assets/img/project_img/awaken.jpg
 importance: 3
 category: field deployments
 ---

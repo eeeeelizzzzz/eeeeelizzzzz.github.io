@@ -2,6 +2,7 @@
 layout: page
 title: Atmospheric Observing Network Research
 description: Designing, deploying, and evaluating advanced atmospheric observing networks.
+img: assets/img/project_img/obs.jpg
 importance: 2
 category: research
 ---

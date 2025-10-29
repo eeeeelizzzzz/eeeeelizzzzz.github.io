@@ -2,6 +2,7 @@
 layout: page
 title: Targeted Observation by Radars and UAS of Supercells
 description: Field Scientist (2019-2023)
+img: assets/img/project_img/TORUS.jpg
 importance: 12
 category: field deployments
 ---
