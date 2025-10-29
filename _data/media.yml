@@ -1,13 +1,123 @@
-- title: Interview on boundary-layer profiling for severe weather
-  outlet: NPR
-  type: Radio
-  date: 2024-05-12
-  link: https://example.org/npr-interview
-  description: "Discussed advances in profiling the lower atmosphere and impacts on severe weather forecasting."
+# TV & Video
+- title: ABC News Impact x Nightline
+  outlet: ABC News / Hulu
+  type: TV
+  link: https://abcnews.go.com/Nightline/video/16-minutes-inside-sinking-luxury-superyacht-bayesian-115888656
+  description: "Full episode on Hulu, shortened news format available"
 
-- title: Panel on UAS in meteorology at AMS Annual Meeting
-  outlet: AMS TV
+- title: Oklahoma's Wicked Weather 2025
+  outlet: KFOR Oklahoma's News 4
+  type: TV
+  link: https://kfor.com/video/oklahomas-wicked-weather-2025/10677910/
+
+- title: OU grads develop cutting-edge weather drone as storm season kicks off in Oklahoma
+  outlet: Oklahoma News Report (via YouTube)
   type: Video
-  date: 2023-01-10
-  link: https://example.org/ams-panel
-  description: "Panel conversation on operational UAS networks and future research directions."
+  link: https://www.youtube.com/watch?v=ShP4PqCKF5E
+
+- title: NOAA: Drones and Twisters Video
+  outlet: NOAA
+  type: Video
+  link: https://www.youtube.com/watch?v=8iqdoGfxuNc
+
+- title: KOCO Interview about UAS at OU/NSSL
+  outlet: KOCO 5 News
+  type: TV
+  description: "Interview about unmanned aircraft systems"
+
+- title: Yes! Science Show Interview
+  outlet: Yes! Science Show
+  type: Video
+  date: 2019-07
+  link: http://www.yesscienceshow.com/2019/07/meteorologist-elizabeth-smith/
+
+- title: Observations on the Go - Featured Scientist
+  outlet: National Severe Storms Laboratory
+  type: Video
+  link: https://www.youtube.com/watch?v=nPG6kJ0nPKg&ab_channel=NOAAWeatherPartners
+  description: "Discussed the CLAMPS platform"
+
+# Print & Web Articles
+- title: How geoscientists are making their field more welcoming
+  outlet: Nature
+  type: Article
+  link: https://www.nature.com/articles/d41586-023-01615-8
+
+- title: Designing the real, wild, storm-chasing trucks behind Twisters
+  outlet: Fast Company Magazine
+  type: Article
+  link: https://www.fastcompany.com/91154514/the-real-life-storm-chasers-who-inspired-the-design-of-twisters-crazy-trucks
+
+- title: 'Twister' gave rise to a generation of storm chasers...
+  outlet: CNN
+  type: Article
+  link: https://www.cnn.com/2024/07/18/entertainment/twister-generation-of-storm-chasers
+
+- title: Between Twister and Twisters, Tornado Science Has Improved a Lot...
+  outlet: Scientific American
+  type: Article
+  link: https://www.scientificamerican.com/article/between-twister-and-twisters-tornado-science-has-improved-a-lot-in-three/
+
+- title: A career twist of fate? (Article Feature)
+  outlet: NOAA Heritage Stories
+  type: Article
+  link: https://www.noaa.gov/heritage/stories/career-twist-of-fate
+
+- title: Researchers study lower atmosphere to answer remaining questions
+  outlet: Inside NSSL / NSSL News
+  type: Article
+  link: https://inside.nssl.noaa.gov/nsslnews/2020/12/researchers-study-lower-atmosphere-to-answer-remaining-questions/
+
+- title: Unmanned Systems Elevate Weather Research at OU
+  outlet: University of Oklahoma
+  type: Article
+  link: https://www.ou.edu/research-norman/news-events/2022/unmanned-systems-elevate-weather-research-at-ou
+
+# Podcasts
+- title: Planet NOAA Podcast - Episode 7: Class is in session!
+  outlet: NOAA
+  type: Podcast
+  link: https://www.noaa.gov/podcasts/planet-noaa-from-sun-to-sea-and-everything-in-between/planet-noaa-podcast-episode-7-class-is-in-session
+  description: "Featured in the last segment"
+
+- title: Weather Brains - Episode 807
+  outlet: Weather Brains
+  type: Podcast
+  link: https://weatherbrains.com/?p=9688
+  description: "Joined the crew to discuss work at NSSL and the National Weather Museum"
+
+- title: Obsessed with the Weather - Episode 18
+  outlet: Steve Maguire Podcast
+  type: Podcast
+  link: https://www.obsessedwiththeweather.com/episodes/18-amazing-weather-research-dr-elizabeth-smith
+
+- title: Pulsar Podcast
+  outlet: Boston Museum of Science
+  type: Podcast
+  link: https://www.mos.org/mos-at-home/pulsar/how-do-scientists-predict-tornadoes
+  description: "Podcast recording and transcripts in English and Spanish"
+
+# Talks & Panels
+- title: Invited Talk at AMS Student Conference - Mind, Body, Attitude Session
+  outlet: American Meteorological Society
+  type: Talk
+  link: https://youtu.be/w_8-JAGM2AY
+
+- title: Sam Noble Museum, Fieldwork While Female (Panelist)
+  outlet: Sam Noble Museum
+  type: Panel
+  description: "Recordings online"
+
+- title: NSSL Virtual Live Panel (Panelist)
+  outlet: National Severe Storms Laboratory
+  type: Panel
+  date: 2020-10
+  link: https://www.youtube.com/watch?v=9miZ0Jn3xps&ab_channel=NOAAWeatherPartners
+  description: "Highlights the diverse paths of four NSSL scientists"
+
+- title: Lunch w/ a Scientist (Invited Speaker)
+  outlet: Headwaters Institute
+  type: Talk
+  date: 2020-05
+  link: https://youtu.be/7RzYqbko_ew
+  description: "Accompanying exercise available for 8-11 grade"
