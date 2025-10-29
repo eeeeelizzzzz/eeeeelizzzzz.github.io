@@ -2,7 +2,7 @@
 layout: page
 title: Perdigão
 description: Field Scientist (2017)
-img: assets/img/project_img/perdigao.jpg
+img: assets/img/project_img/perdigo.jpg
 importance: 13
 category: field deployments
 ---
