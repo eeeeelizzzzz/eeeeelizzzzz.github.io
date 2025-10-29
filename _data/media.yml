@@ -1,0 +1,13 @@
+- title: Interview on boundary-layer profiling for severe weather
+  outlet: NPR
+  type: Radio
+  date: 2024-05-12
+  link: https://example.org/npr-interview
+  description: "Discussed advances in profiling the lower atmosphere and impacts on severe weather forecasting."
+
+- title: Panel on UAS in meteorology at AMS Annual Meeting
+  outlet: AMS TV
+  type: Video
+  date: 2023-01-10
+  link: https://example.org/ams-panel
+  description: "Panel conversation on operational UAS networks and future research directions."
