@@ -20,3 +20,7 @@ Multiple research teams followed severe thunderstorms to study how factors like 
 Roughly a dozen radar, ballooning, unmanned aerial vehicle, and ground-based observations teams traveled into the storm, along with a team in the NOAA P-3 Hurricane Hunter flying just outside the storm, to provide a data-driven, multi-dimensional view of each storm system. The project covered an area of 367,000 square miles, stretching from North Dakota to Texas and Iowa to Wyoming and Colorado.
 
 I led the inital development and deployment of the NSSL Doppler lidar truck (later upgraded to a more robust dual-lidar system). This work has led to the advanced analysis of supercell inflow, including the observation of coherent vertical vorticity structures known as "velocity worms" (Gebauer et al. 2025, in review).
+
+### Related publications
+
+- [Doppler Lidar and Mobile Radiosonde Observation-Based Evaluation of WoF Near-Supercell Environments during TORUS 2019](/bibliography/Laser2022doppler.html)

@@ -25,3 +25,8 @@ Operations occurred during 8 operating periods between Feb 1 and May 8 in 2022 a
 1. Piney Creek RV Park (32.909556, -90.380899): The center-line will be in Class G airspace below 700 ft AGL and in Class E airspace above 700 ft AGL.
 2. Lake Village RV Park ( 33.36382, -91.26238): The center-line will be in Class G airspace below 700 ft AGL and in Class E airspace above 700 ft AGL.
 3. Region within 0.5 miles of Aviation Flight Services, Schlater (33.640122, -90.362044): The center-line will be in Class E airspace from the surface to the requested 5000 ft AGL 
+
+### Related publications
+
+- [The Propagation, Evolution, and Rotation in Linear Storms (PERILS) Project](/bibliography/Kosiba2024perils.html)
+- [Relating the Effects of Heterogeneous Terrain on Boundary-Layer Flow... Using Remote Profiler Datasets](/bibliography/Ammon2025using.html)

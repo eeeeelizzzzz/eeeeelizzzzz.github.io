@@ -23,3 +23,8 @@ Funded by the U.S. Department of Energy (DOE) Wind Energy Technologies Office, A
 AWAKEN researchers chose a field campaign site that borders several wind farms in Oklahoma, between Ponca City and Enid, at which they measured wind-farm-atmosphere interactions. After equipment installation completed in 2022, researchers collected data until July 2025. Collaborative efforts to analyze and report the data through various publications and dissemination efforts will continue as part of the Ensuring Data Usage from the Rotor aerodynamics, aeroelastics, and wake (RAAW) and AWAKEN (ENDURA) project through 2027.
 
 To map the details of air flow and turbulence around wind turbines, AWAKEN researchers used scanning radars, lasers, and aircraft—each providing unique and complex measurements. DOE's Wind Data Archive and Portal hosts the data, allowing the AWAKEN research team and worldwide collaborators access to information that could help them decrease annual energy production losses, validate and improve wind farm models, and optimize wind farm design.
+
+### Related publications
+
+- [Probing the atmospheric boundary layer with integrated remote-sensing platforms during the AWAKEN campaign](/bibliography/Jordan2024probing.html)
+- [Operational wind plants increase planetary boundary layer height: an observational study](/bibliography/Abraham2025operational.html)

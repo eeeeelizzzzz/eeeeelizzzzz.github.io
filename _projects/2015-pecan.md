@@ -22,3 +22,8 @@ Measurements were collected from 1 June to 15 July 2015 over a nine-state region
 * nocturnal low-level jets (NLLJs).
 
 My PhD work focused on PECAN observations of NLLJs. My role in PECAN was to operate the OU/NSSL CLAMPS1 platform to collect thermodynamic and kinematic profiles and launch radiosondes for all PECAN missions. The experience was grueling at times, but I learned a lot and got to ride in the NOAA P-3 aircraft around a thunderstorm, which is bucket list material.
+
+### Related publications
+
+- [The Great Plains low-level jet during PECAN: observed and simulated characteristics](/bibliography/Smith2019great.html)
+- [WRF model study of the Great Plains low-level jet: Effects of grid spacing and boundary layer parameterization](/bibliography/Smith2018wrf.html)
