@@ -87,11 +87,6 @@ ninja.data = [{
           description: "Field Support Scientist and Mission Commander (2021-Present)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2021-uas-damage-survey.html";
-            },},{id: "projects-vortex-se-perils",
-          title: 'VORTEX-SE/PERiLS',
-          description: "Field Planning Lead (2021)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2021-vortex-se.html";
             },},{id: "projects-awaken",
           title: 'AWAKEN',
           description: "NSSL/OU Profiling Lead (2022-2023)",
@@ -99,7 +94,7 @@ ninja.data = [{
               window.location.href = "/projects/2022-awaken.html";
             },},{id: "projects-vortex-usa-perils",
           title: 'VORTEX-USA/PERiLS',
-          description: "NSSL Profiling Lead (2019-2023)",
+          description: "NSSL Profiling Lead (2016-2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-perils.html";
             },},{id: "projects-tracer",
