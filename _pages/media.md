@@ -1,12 +1,12 @@
 ---
 layout: page
-title: media
-permalink: /media/
+title: appearances
+permalink: /appear/
 nav: true
 nav_order: 6
 ---
 
-## Media appearances
+## media and outreach appearances
 
 {% if site.data.media and site.data.media.size > 0 %}
 <div class="media-list">
